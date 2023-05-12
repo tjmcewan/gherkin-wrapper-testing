@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@playwright/test": "^1.33.0",
-    "gherkin-wrapper": "^0.1.1"
+    "gherkin-wrapper": "^0.1.2"
   },
   "scripts": {}
 }
